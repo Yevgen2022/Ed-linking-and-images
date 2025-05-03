@@ -3,7 +3,7 @@
 This project focuses on two essential frontend skills: building a structured and functional navigation menu, and displaying responsive images using the `<picture>` tag. The task included linking local and external pages, working with fragment identifiers, and controlling image display based on screen size.
 
 ## Live Demo
-[Click here to view](https://linking-and-images-800d6c.gitlab.io)
+[Click here to view](https://yevgen2022.github.io/Ed-linking-and-images/)
 
 ## Key Concepts Applied
 
